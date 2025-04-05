@@ -16,7 +16,7 @@
 
 - 🌱 Ahora mismo me encuentro aprendiendo **pentesting y derivados**
 
-- 👨‍💻 Todos mis proyectos CTF se encuentran en: 
+- 👨‍💻 Todos mis proyectos CTF se encuentran en: https://github.com/FN8-YT/CTF
 <br>
 
 
